@@ -50,6 +50,7 @@ FLOWS = {
         "androidtv_remote",
         "anova",
         "anthemav",
+        "anthropic_conversation",
         "aosmith",
         "apcupsd",
         "apple_tv",

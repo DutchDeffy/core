@@ -1,0 +1,12 @@
+{
+  "domain": "anthropic_conversation",
+  "name": "Anthtropic Claude AI",
+  "after_dependencies": ["assist_pipeline", "intent"],
+  "codeowners": ["@JannickBlmndl"],
+  "config_flow": true,
+  "dependencies": ["conversation"],
+  "documentation": "https://www.home-assistant.io/integrations/anthropic_conversation",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": ["antrhopic==0.30.1"]
+}
